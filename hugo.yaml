@@ -1,0 +1,29 @@
+baseURL: https://emfhams.org/
+languageCode: en-gb
+title: EMF Communications HQ
+
+theme: hextra
+
+menu:
+  main:
+    - identifier: wiki
+      name: Wiki
+      pageRef: /docs
+      weight: 1
+
+params:
+  footer:
+    enable: false
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      link: /
+      width: 40
+      height: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
