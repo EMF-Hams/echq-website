@@ -7,7 +7,7 @@ We're home to:
 
   {{< card
     link="https://emfhams.org/"
-    image="images/emfhams.png"
+    image="images/emfhams.svg"
     title="The EMF Hams" subtitle="An Amateur Radio Club (G1EMF)"
   >}}
 
