@@ -13,7 +13,7 @@ We're home to:
 
   {{< card
     link="https://mastcar.uk/"
-    image="images/mastcar.png"
+    image="images/mastcar.jpg"
     title="MastCar"
     subtitle="An Amateur Radio Tactical Response Vehicle (G1CAR)"
   >}}
