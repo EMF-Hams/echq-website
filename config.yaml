@@ -1,6 +1,6 @@
 baseURL: https://emfhams.org/
 languageCode: en-gb
-title: EMF Communications HQ
+title: EMF Communications Headquarters
 
 theme: hextra
 
@@ -18,7 +18,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/logo.png
+      path: images/echq-compact.png
       link: /
       width: 40
       height: 20

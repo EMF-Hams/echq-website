@@ -21,7 +21,7 @@ We're home to:
   {{< card
     link="https://cutel.net/"
     image="images/cutel.png"
-    title="CuTel"
+    title="CuTEL"
     subtitle="A Premium Telecoms Provider"
   >}}
 
