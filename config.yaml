@@ -6,9 +6,9 @@ theme: hextra
 
 menu:
   main:
-    - identifier: wiki
-      name: Wiki
-      pageRef: /docs
+    - identifier: 2024planning
+      name: 2024 Planning
+      pageRef: /2024
       weight: 1
 
 params:
