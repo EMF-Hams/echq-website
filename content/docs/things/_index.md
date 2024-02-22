@@ -4,4 +4,4 @@ linkTitle: Things
 sidebar:
     open: true
 ---
-This is some things.
+This is where we can list the "things" that will be attending EMFCamp 2024.
