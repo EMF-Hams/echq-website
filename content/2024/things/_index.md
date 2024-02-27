@@ -7,5 +7,5 @@ toc: false
 ---
 This is where we can list the "things" that will be attending EMFCamp 2024.
 
-  - [MastCar](mastcar)
-  - [The Bell](bell)
+  - [MastCar]({{< ref "mastcar" >}})
+  - [The Bell]({{< ref "bell" >}})

@@ -6,7 +6,7 @@ There will be various people providing radio-related services on site, and the a
 
 |What?                    |Callsign | Where?                                |Output   |Input    | Who?         |Notes      |
 |-------------------------|---------|---------------------------------------|---------|---------|--------------|-----------|
-|APRS Digipeter           |         |Top of [MastCar](/2024/things/mastcar/)|144.8000 |144.8000 |Plett (M0PLL) |           |
+|APRS Digipeter           |         |Top of [MastCar]({{< ref "2024/things/mastcar" >}})|144.8000 |144.8000 |Plett (M0PLL) |           |
 |P25 Simplex Gateway      |         |                                       |144.8250 |144.8250 |Josh (M0JMO)  |           |
 |2M FM Repeater           |GB3IF    |                                       |145.5875 |144.5875 |Jim (M0ZAH)   |118.8 CTCSS|
 |70cm FM Repeater         |GB3MF    |                                       |430.8000 |438.4000 |Tryst (M0TRY) |118.8 CTCSS|
