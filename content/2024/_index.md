@@ -12,3 +12,9 @@ There's a list of [people attending]({{< ref "people" >}}) here. You might know 
 
 ## What?
 There's various [services]({{< ref "services" >}}) and [things]({{< ref "things" >}}) present that might interest you, if you choose to visit our little village.
+
+## Where?
+We'll be up in the North East Corner somewhere.
+
+## Why?
+If you don't know, get to know!
