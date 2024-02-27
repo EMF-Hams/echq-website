@@ -22,10 +22,11 @@ params:
       link: /
       width: 40
       height: 20
-  params:
   editURL:
     enable: true
     base: "https://github.com/EMF-hams/echq-website/edit/main/content/"
+  page:
+    width: wide
 
 markup:
   goldmark:

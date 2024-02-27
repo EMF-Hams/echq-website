@@ -1,7 +1,9 @@
 ---
 title: ECHQ 2024 Planning
 linkTitle: 2024 Planning
-toc: false
+toc: true
+cascade:
+  type: docs
 ---
 This set of pages is to allow for coordination and planning for EMFCamp 2024.
 
