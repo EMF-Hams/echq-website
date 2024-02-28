@@ -18,3 +18,4 @@ title: People Attending
 |Rewby                 |                                        |25th May  |4th June | |
 |Kat H                 |                                        |30th May  |3rd June | |
 |Ross W                |                                        |30th May  |3rd June | |
+|Tom (pioneer)         |2E0BZY                                  |30th May  |3rd June |Urn, Maybe coffee machine|
