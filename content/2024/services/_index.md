@@ -10,6 +10,7 @@ There will be various people providing radio-related services on site, and the a
 |P25 Simplex Gateway      |         |                                       |144.8250 |144.8250 |Josh (M0JMO)  |           |
 |2M FM Repeater           |GB3IF    |                                       |145.5875 |144.5875 |Jim (M0ZAH)   |118.8 CTCSS|
 |70cm FM Repeater         |GB3MF    |                                       |430.8000 |438.4000 |Tryst (M0TRY) |118.8 CTCSS|
+|70cm Fusion/FM Repeater  |MB5DL    |                                       |430.9000 |438.5000 |Jim (M0ZAH)   |118.8 CTCSS|
 |DAPNET POCSAG Transmitter|MB7PMF   |The Northern Quarter Village           |439.9875 |         |Dan (M0NXN)   |[www](https://www.makerspace.org.uk/radio/mb7pmf/)| 
 |DMR Repeater             |GB7NQ    |The Northern Quarter Village           |430.8750 |439.9125 |Malcom (M0VNA)|[www](https://www.makerspace.org.uk/radio/gb7nq/)|
 |LoRa APRS Gateway        |MB7ULG   |The Norther Quarter Village            |439.9125 |439.9125 |Malcom (M0VNA)|[www](https://www.makerspace.org.uk/radio/mb7ulg/)|
