@@ -8,7 +8,7 @@ There will be various people providing radio-related services on site, and the a
 |-------------------------|---------|---------------------------------------|---------|---------|--------------|-----------|
 |APRS Digipeter           |G1EMF    |X50 on top of [MastCar]({{< ref "2024/things/mastcar" >}}), diplexed with MB5DL|144.8000 |144.8000 |Plett (M0PLL) |           |
 |P25 Simplex Gateway      |         |                                       |144.8250 |144.8250 |Josh (M0JMO)  |           |
-|2M FM Repeater           |GB3IF    |                                       |145.5875 |144.5875 |Jim (M0ZAH)   |118.8 CTCSS|
+|2M FM Repeater           |GB3IF    |"likely a slimjim strapped to the side of the tent"|145.5875 |144.5875 |Jim (M0ZAH)   |118.8 CTCSS|
 |70cm FM Repeater         |GB3MF    |Tryst's Clark Mast                     |430.8000 |438.4000 |Tryst (M0TRY) |118.8 CTCSS|
 |70cm Fusion/FM Repeater  |MB5DL    |X50 on top of [MastCar]({{< ref "2024/things/mastcar" >}}), diplexed with G1EMF APRS|430.9000 |438.5000 |Jim (M0ZAH)   |118.8 CTCSS|
 |DAPNET POCSAG Transmitter|MB7PMF   |The Northern Quarter Village           |439.9875 |         |Dan (M0NXN)   |[www](https://www.makerspace.org.uk/radio/mb7pmf/)| 
