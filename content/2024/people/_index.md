@@ -16,6 +16,7 @@ title: People Attending
 |Peter (or Frankie)       |                                        |30th May  |3rd June | |
 |Matthew (Marrold)        |[2E0SIP](https://www.qrz.com/db/2E0SIP) |28th May  |4th June |Phones and Baofengs |
 |Rewby                    |                                        |25th May  |4th June | |
+|Anze Jensterle (CraftByte)|[S54AJE](https://www.qrz.com/db/S54AJE)|25th May  |4th June |Lots of radios (including DMR and TETRA), phones|
 |Kat H                    |                                        |30th May  |3rd June | |
 |Ross W                   |                                        |30th May  |3rd June | |
 |Tom (pioneer)            |2E0BZY                                  |30th May  |3rd June |Urn, Maybe coffee machine|
