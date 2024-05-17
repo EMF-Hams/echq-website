@@ -5,8 +5,8 @@ title: People Attending
 |-------------------------|----------------------------------------|----------|---------|--------|
 |Jon Fautley (Filbert)    |[M0NGY](https://www.qrz.com/db/M0NGY)   |28th May |3rd June |Radios|
 |Josh Murray (MrJoshua)   |[M0JM0](https://www.qrz.com/db/M0JMO)   |29th May  |3rd June |DJ Equipment, Vodka, P25 VHF Hotspot, Rabbit Home/Office Base Station, Meshtastic Node |
-|Havoc                    |[2E0EMO](https://www.qrz.com/db/2E0EMO) |30th May  |3rd June | |
-|Emma                     |                                        |30th May  |3rd June | |
+|Havoc                    |[2E0EMO](https://www.qrz.com/db/2E0EMO) |30th May  |3rd June |George foreman grill |
+|Emma                     |M7ORN                                        |30th May  |3rd June | |
 |Paul G                   |[M0TZO](https://www.qrz.com/db/M0TZO)   |30th May  |3rd June | |
 |Paul L                   |[M0PLL](https://www.qrz.com/db/M0PLL)   |28th May  |3rd June |APRS Digipeater |
 |Phil Pemberton           |[M0OFX](https://www.qrz.com/db/M0OFX)   |30th May  |3rd June | |
