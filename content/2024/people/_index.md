@@ -25,3 +25,4 @@ title: People Attending
 |James T                  |G7NQH                                   |30th May  |3rd June |Baofengs, SDR dongle, gazebo, EMF version of [CastleText](https://github.com/webmariner/castletext/) running on a Pi, possibly a BBC Master 128 with Ethernet and a display but not decided yet 🙂 |
 |Michelle                 |                                        |30th May  |3rd June | |
 |Gerard                   |                                        |30th May  |3rd June | |
+|Tommy                    |2E0XMT                                  |30th May  |3rd June | |
