@@ -20,3 +20,4 @@ title: People Attending
 |Ross W                   |                                        |30th May  |3rd June | |
 |Tom (pioneer)            |2E0BZY                                  |30th May  |3rd June |Urn, Maybe coffee machine|
 |Jon (TheNiceGuy) Spriggs |[G7VRI](https://www.qrz.com/db/G7VRI)   |30th May  |3rd June |Baofengs |
+|Ben (BALJ)               |M7MWP                                   |30th May  |3rd June |Viewdata terminal (and service!), nervous newbie energy|
