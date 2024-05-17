@@ -21,3 +21,6 @@ title: People Attending
 |Tom (pioneer)            |2E0BZY                                  |30th May  |3rd June |Urn, Maybe coffee machine|
 |Jon (TheNiceGuy) Spriggs |[G7VRI](https://www.qrz.com/db/G7VRI)   |30th May  |3rd June |Baofengs |
 |Ben (BALJ)               |M7MWP                                   |30th May  |3rd June |Viewdata terminal (and service!), nervous newbie energy|
+|James T                  |G7NQH                                   |30th May  |3rd June |Baofengs, SDR dongle, gazebo, EMF version of [CastleText](https://github.com/webmariner/castletext/) running on a Pi, possibly a BBC Master 128 with Ethernet and a display but not decided yet 🙂 |
+|Michelle                 |                                        |30th May  |3rd June | |
+|Gerard                   |                                        |30th May  |3rd June | |
