@@ -14,7 +14,7 @@ There's a list of [people attending]({{< ref "people" >}}) here. You might know 
 There's various [services]({{< ref "services" >}}) and [things]({{< ref "things" >}}) present that might interest you, if you choose to visit our little village.
 
 ## Where?
-We'll hopefully be up in the North East corner somewhere.
+We're located in the [North East Corner](https://map.emfcamp.org/#18.33/52.043238/-2.374226) of the EMFCamp field. There will be a marquee with some signage, but the biggest indicator you're in the right place will be MastCar.
 
 ## Why?
 If you don’t know, get to know!
