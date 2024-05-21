@@ -26,3 +26,4 @@ title: People Attending
 |Michelle                 |                                        |30th May  |3rd June | |
 |Gerard                   |                                        |30th May  |3rd June | |
 |Tommy                    |2E0XMT                                  |30th May  |3rd June | |
+|Julian                   |2E0IQH                                  |30th May  |3rd June | |
