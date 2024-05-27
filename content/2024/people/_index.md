@@ -29,3 +29,4 @@ title: People Attending
 |Julian                   |2E0IQH                                  |30th May  |3rd June | |
 |Alex                     |M0IDM                                   |29th May  |3rd June |6ft table, or in real money 182.88cm. Fridge.|
 |Dave                     |M0IDD                                   |30th May  |2nd June |SPE Amplifier, analogue mobile phones |
+|Pablo F                  |M0ONP                                   |31st May  |2nd June | Icom IC-705, Icom ID-51, Icom ID-52, Yaesu FT-5D, some Baofengs |
