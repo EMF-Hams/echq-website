@@ -27,3 +27,4 @@ title: People Attending
 |Gerard                   |                                        |30th May  |3rd June | |
 |Tommy                    |2E0XMT                                  |30th May  |3rd June | |
 |Julian                   |2E0IQH                                  |30th May  |3rd June | |
+|Pablo F                  |M0ONP                                   |31st May  |2nd June | Icom IC-705, Icom ID-51, Icom ID-52, Yaesu FT-5D, some Baofengs |
