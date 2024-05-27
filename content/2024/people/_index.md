@@ -11,7 +11,7 @@ title: People Attending
 |Paul L                   |[M0PLL](https://www.qrz.com/db/M0PLL)   |28th May  |3rd June |APRS Digipeater |
 |Phil Pemberton           |[M0OFX](https://www.qrz.com/db/M0OFX)   |30th May  |3rd June | |
 |Richard                  |[M0RPK](https://www.qrz.com/db/M0RPK)   |30th May  |3rd June |8m Mast |
-|Jim                      |[M0ZAH](https://www.qrz.com/db/M0ZAH)   |29th May  |4th June |2M repeater (hopefully), UHF Fusion and FM repeater MB5DL |
+|Jim                      |[M0ZAH](https://www.qrz.com/db/M0ZAH)   |29th May  |3rd June |2M repeater (hopefully), UHF Fusion and FM repeater MB5DL |
 |JamesB                   |[MW1CGG](https://www.qrz.com/db/MW1CGG) |30th May  |5th June | |
 |Peter (or Frankie)       |                                        |30th May  |3rd June | |
 |Matthew (Marrold)        |[2E0SIP](https://www.qrz.com/db/2E0SIP) |28th May  |4th June |Phones and Baofengs |
@@ -27,4 +27,6 @@ title: People Attending
 |Gerard                   |                                        |30th May  |3rd June | |
 |Tommy                    |2E0XMT                                  |30th May  |3rd June | |
 |Julian                   |2E0IQH                                  |30th May  |3rd June | |
+|Alex                     |M0IDM                                   |29th May  |3rd June |6ft table, or in real money 182.88cm. Fridge.|
+|Dave                     |M0IDD                                   |30th May  |2nd June |SPE Amplifier, analogue mobile phones |
 |Pablo F                  |M0ONP                                   |31st May  |2nd June | Icom IC-705, Icom ID-51, Icom ID-52, Yaesu FT-5D, some Baofengs |
