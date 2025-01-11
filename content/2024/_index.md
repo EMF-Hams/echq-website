@@ -1,6 +1,6 @@
 ---
-title: ECHQ 2024 Planning
-linkTitle: 2024 Planning
+title: ECHQ 2026 Planning
+linkTitle: 2026 Planning
 toc: true
 cascade:
   type: docs
