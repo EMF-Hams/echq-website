@@ -6,8 +6,12 @@ theme: hextra
 
 menu:
   main:
-    - identifier: 2024planning
-      name: 2024 Planning
+    - identifier: 2026
+      name: 2026
+      pageRef: /2026
+      weight: 1
+    - identifier: 2024archive
+      name: Archive
       pageRef: /2024
       weight: 1
 
