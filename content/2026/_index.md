@@ -1,12 +1,11 @@
 ---
-title: ECHQ 2024 Archive
-linkTitle: 2024 Archive
+title: ECHQ 2026 Planning
+linkTitle: 2026 Planning
 toc: true
 cascade:
   type: docs
 ---
-# This is an archive of the planning we did for 2024.
-
+This set of pages is to allow for coordination and planning for EMFCamp 2026.
 
 ## Who?
 There's a list of [people attending]({{< ref "people" >}}) here. You might know some of them, but if you don't most of them are friendly and you will by the end of EMFCamp! Please feel free to add yourself to this page.
