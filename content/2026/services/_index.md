@@ -6,5 +6,5 @@ There will be various people providing radio-related services on site, and the a
 
 |What?                    |Callsign | Where?                                |Output   |Input    | Who?         |Notes      |
 |-------------------------|---------|---------------------------------------|---------|---------|--------------|-----------|
-|70cm Repeater  |TBA   |TBD|430.800 |438.400 |Tryst (M0TRY)   ||To be discussed
-|6m Allstar Link          |G1VHF        |TBD|TBD |TBD |Jim (M0ZAH)   ||
+|70cm Repeater  |G1EMF   |TBD|430.800 |438.400 |Tryst (M0TRY)   ||To be discussed
+|2m Allstar Link          |G1VHF        |TBD|TBD |TBD |Jim (M0ZAH)   ||
