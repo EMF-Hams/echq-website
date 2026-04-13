@@ -6,5 +6,7 @@ There will be various people providing radio-related services on site, and the a
 
 |What?                    |Callsign | Where?                                |Output   |Input    | Who?         |Notes      |
 |-------------------------|---------|---------------------------------------|---------|---------|--------------|-----------|
-|70cm Repeater  |G1EMF   |TBD|430.800 |438.400 |Tryst (M0TRY)   ||To be discussed
-|2m Allstar Link          |G1VHF        |TBD|TBD |TBD |Jim (M0ZAH)   ||
+|2M Repeater              |TBC      |Amsat|145.5875|144.5875|Jules|1MHz split|
+|70cm Repeater            |MB0EMF   |FHC|430.800 |438.400 |Tryst (M0TRY)   |CTCSS: 118.8Hz|
+|6m/70cm XBand Allstar repeater |MB0IAX   |ECHQ|50.520/430.025 |50.520/430.025 |Jim (M0ZAH)   |CTCSS: 118.8Hz|
+|2m APRS Digi             |G1EMF|FHC|144.800|144.800|Paul M0PLL||
