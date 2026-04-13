@@ -12,13 +12,6 @@ We're home to:
   >}}
 
   {{< card
-    link="https://mastcar.uk/"
-    image="images/mastcar.jpg"
-    title="MastCar"
-    subtitle="An Amateur Radio Tactical Response Vehicle (G1CAR)"
-  >}}
-
-  {{< card
     link="https://cutel.net/"
     image="images/cutel.png"
     title="CuTEL"
