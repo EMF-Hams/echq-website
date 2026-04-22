@@ -10,3 +10,5 @@ There will be various people providing radio-related services on site, and the a
 |70cm Repeater            |MB0EMF   |FHC|430.800 |438.400 |Tryst (M0TRY)   |CTCSS: 118.8Hz|
 |6m/70cm XBand Allstar repeater |MB0IAX   |ECHQ|50.520/430.025 |50.520/430.025 |Jim (M0ZAH)   |CTCSS: 118.8Hz|
 |2m APRS Digi             |G1EMF|FHC|144.800|144.800|Paul M0PLL||
+|70cm LoRa APRS           |TBC  |TBC|439.9125|439.9125|TBC||
+|70cm DMR Repeater        |TBC  |TBC|TBC|TBC|TBC||
