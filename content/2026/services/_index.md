@@ -12,3 +12,8 @@ There will be various people providing radio-related services on site, and the a
 |2m APRS Digi             |G1EMF|FHC|144.800|144.800|Paul M0PLL||
 |70cm LoRa APRS           |TBC  |TBC|439.9125|439.9125|TBC||
 |70cm DMR Repeater        |TBC  |TBC|TBC|TBC|TBC||
+
+
+# Allstar
+
+Information to follow.
