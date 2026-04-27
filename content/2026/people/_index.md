@@ -5,6 +5,6 @@ title: People Attending
 |-------------------------|----------------------------------------|----------|---------|--------|
 |Alex                     |[M0IDM](https://www.qrz.com/db/M0IDM)   |July 15th |Sun 19th PM|TBA |TBA |
 |David                    |[M0IDD](https://www.qrz.com/db/M0IDD)   |July 16th |Sun 19th |HF Amp |
-|Jim                      |[M0ZAH](https://www.qrz.com/db/M0ZAH)   |July 15th |Sun 19th PM |HF Station |
+|Jim                      |[M0ZAH](https://www.qrz.com/db/M0ZAH)   |July 15th |Sun 19th PM |HF Station, 2M VHF |
 |Steve                    |[M0SPF](https://www.qrz.com/db/M0SPF)   |TBA  |TBA |TBA |
 |George                   |[M7NYG](https://www.qrz.com/db/M7NYG)   |July 15th |Sun 19th PM |TBA |
